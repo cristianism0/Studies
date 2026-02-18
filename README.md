@@ -8,5 +8,5 @@ Todas as anotações e específicações da linguagem estarão em comentários d
 
 ```
 git clone https://github.com/cristianism0/Rust.git
-``` 
+```
 
